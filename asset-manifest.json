@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SecretFr/movie_app/static/css/main.112b9449.chunk.css",
+    "main.js": "/SecretFr/movie_app/static/js/main.fa682678.chunk.js",
+    "main.js.map": "/SecretFr/movie_app/static/js/main.fa682678.chunk.js.map",
+    "runtime-main.js": "/SecretFr/movie_app/static/js/runtime-main.baa3592e.js",
+    "runtime-main.js.map": "/SecretFr/movie_app/static/js/runtime-main.baa3592e.js.map",
+    "static/js/2.b12bd23d.chunk.js": "/SecretFr/movie_app/static/js/2.b12bd23d.chunk.js",
+    "static/js/2.b12bd23d.chunk.js.map": "/SecretFr/movie_app/static/js/2.b12bd23d.chunk.js.map",
+    "index.html": "/SecretFr/movie_app/index.html",
+    "static/css/main.112b9449.chunk.css.map": "/SecretFr/movie_app/static/css/main.112b9449.chunk.css.map",
+    "static/js/2.b12bd23d.chunk.js.LICENSE.txt": "/SecretFr/movie_app/static/js/2.b12bd23d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baa3592e.js",
+    "static/js/2.b12bd23d.chunk.js",
+    "static/css/main.112b9449.chunk.css",
+    "static/js/main.fa682678.chunk.js"
+  ]
+}
